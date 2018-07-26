@@ -1,0 +1,30 @@
+nav{
+    padding-top: 100px;
+}
+
+nav ul{
+    padding: 0px;
+    margin: 0px;
+}
+
+nav ul li{
+    list-style: none;
+    text-align: right;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: inherit;
+}
+
+nav ul li a:hover{
+    font-weight: bold;
+}
+
+.logo{
+    width: 100%;
+}
+
+.logo img{
+    width: 100%;
+}

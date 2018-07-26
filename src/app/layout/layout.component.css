@@ -1,0 +1,11 @@
+app-side-nav{
+    width: 200px;
+    float: left;
+    overflow: auto;
+    height: 100%;
+}
+
+.main-container{
+    float: left;
+    width: calc(100% - 200px);
+}

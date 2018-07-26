@@ -1,0 +1,16 @@
+.page-header{
+    height: 50px;
+    padding: 30px;
+}
+
+.page-header .bread-crum{
+    float: left;
+}
+
+.page-header .operations{
+    float: right;
+}
+
+.page-header .operations span{
+    padding: 0px 30px;
+}
